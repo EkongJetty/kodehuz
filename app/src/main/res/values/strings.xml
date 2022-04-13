@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_App</string>
+    <string name="press">PRESS</string>
+    <string name="name_chris_ekong">NAME: CHRIS EKONG</string>
+    <string name="track_android_development">TRACK: ANDROID DEVELOPMENT</string>
+    <string name="track_level_beginner">TRACK LEVEL: BEGINNER</string>
+    <string name="bio_i_am_an_android_developer_under_training_i_am_open_minded_and_strongly_believe_in_creativity">BIO: I am an android developer under training.I am open minded and strongly believe in creativity.</string>
+</resources>
